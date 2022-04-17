@@ -1,0 +1,12 @@
+name = "phonkie"
+author = "fortissim2"
+link = ""
+year = 2022
+
+[formats.standard]
+matrix = [["q", "l", "m", "p", "b", "z", "f", "o", "u", "y"],
+["r", "n", "t", "h", "d", "c", "s", "e", "a", "i", "/"],
+["j", "x", "v", "k", ";", "w", "g", "'", ".", ","]]
+
+map = {}
+home_row = 1
